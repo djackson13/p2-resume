@@ -35,10 +35,15 @@ h2 {
 	font-size: 2em;
 	margin: 0px 0px 0px 0px;
 	border-bottom: 2px solid black;
+	padding-bottom: 2px;
 }
 h4 {
 	font-family: "proxima-nova-sc-osf-ext-cond",sans-serif;
 	font-size: 1.5em;
-	margin: 10px 0px;
+	margin: 10px 0px 5px 0px;
+}
+h4 + ul {
+	margin-top: 5px;
+	padding-left: 20px;
 }
 
