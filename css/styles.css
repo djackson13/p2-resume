@@ -1,3 +1,35 @@
-body {
-	background: lightblue;
+h1 {
+	text-align: center;
+
 }
+nav {
+	position: fixed 0 0;
+	margin: none;
+	padding: none;
+	width: 100%;
+	height: 40px;
+	background: red;
+}
+nav ul {
+	padding: 0px;
+	margin: 0px;
+	width: 100%;
+	background: black;
+	height: 100%;
+	list-style: none;
+}
+
+nav li {
+	display: inline;
+	float: left;
+	margin: 0px 0px;
+	padding: 10px;
+	background: black;
+}
+
+nav a:link, nav a:visited {
+	padding: 10px 10px;
+	color: white;
+	text-decoration: none;
+}
+
