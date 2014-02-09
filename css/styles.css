@@ -30,4 +30,12 @@ nav a:hover {
 nav + h2 {
 	margin-top: 80px;
 }
+h2 {
+	font-family: "proxima-nova-sc-osf-ext-cond",sans-serif;
+	font-size: 2.5em;
+}
+h4 {
+	font-family: "proxima-nova-sc-osf-ext-cond",sans-serif;
+	font-size: 2em;
+}
 
