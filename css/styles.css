@@ -27,7 +27,7 @@ nav a:hover {
 	color: black;
 	background-color: white;
 }
-h2 {
+nav + h2 {
 	margin-top: 80px;
 }
 
