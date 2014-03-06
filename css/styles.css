@@ -58,20 +58,4 @@ main {
 	margin: 70px 0px 0px 10px;
 
 }
-/*
-article {
-	width: 990px;
-	height: 72px;
-	overflow: hidden;
-	position: relative;
-}
-article section {
-	top: -72px;
-  left: 0;
-  position: absolute;
-  transition: top 1s ease-in-out;
-}
-article:hover section {
-	top: 0;
-}
-*/
+
