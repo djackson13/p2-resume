@@ -9,6 +9,12 @@ nav ul {
 	position: fixed;
 	top: 0px;
 }
+p {
+	margin-top: 0px;
+}
+h4.first {
+	margin-top: 5px;
+}
 
 nav li {
 	display: inline;
@@ -34,13 +40,17 @@ h2 {
 	font-family: "proxima-nova-sc-osf-ext-cond",sans-serif;
 	font-size: 3em;
 	margin: 0px 0px 0px 0px;
-	border-bottom: 2px solid #777;
 	color: #777;
 }
 h4 {
 	font-family: "ff-karbid-slab-web-pro",sans-serif;
 	font-size: 1.3em;
 	margin: 10px 0px 5px 0px;
+}
+section {
+	border-top: 2px solid #777;
+	margin-top: -5px;
+	padding-top: 0;
 }
 h4 + ul {
 	margin-top: 0px;
