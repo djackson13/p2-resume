@@ -10,10 +10,10 @@ nav ul {
 	top: 0px;
 }
 p {
-	margin-top: 0px;
+	margin-top: 2px;
 }
 h4.first {
-	margin-top: 0px;
+	margin-top: 2px;
 }
 
 nav li {
@@ -39,7 +39,7 @@ nav + h2 {
 h2 {
 	font-family: "proxima-nova-sc-osf-ext-cond",sans-serif;
 	font-size: 3.5em;
-	margin: 0px 0px 0px 0px;
+	margin: 0px 0px -10px 0px;
 	color: #777;
 }
 h4 {
